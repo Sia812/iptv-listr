@@ -1,0 +1,18 @@
+#EXTM3U
+
+# --- Geprüfte iranische Sender ---
+
+#EXTINF:-1 tvg-name="IRIB TV1" group-title="Persisch",IRIB TV1
+https://live2.irib.ir/telewebion/TV1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Press TV" group-title="Persisch",Press TV
+https://live.presstv.ir/live/ptv.m3u8
+
+#EXTINF:-1 tvg-name="Manoto TV" group-title="Persisch",Manoto
+http://159.69.58.154:8081/manoto/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PMC Music" group-title="Persisch",PMC Music
+http://iptv.sat.com/pmc/playlist.m3u8
+
+#EXTINF:-1 tvg-name="iFilm Farsi" group-title="Persisch",iFilm Farsi
+https://live1.irib.ir/telewebion/ifilm/playlist.m3u8
